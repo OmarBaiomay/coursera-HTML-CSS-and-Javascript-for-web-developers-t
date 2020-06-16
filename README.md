@@ -1,1 +1,1 @@
-# coursera-HTML-CSS-and-Javascript-for-web-developers-t
+# coursera-HTML-CSS-and-Javascript-for-web-developers
