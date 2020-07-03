@@ -1,0 +1,30 @@
+.nav.navbar-nav{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar-nav>li>a{
+    text-align: center;
+    background-color: #FFF;
+    border-bottom: 1px solid #262626;
+    
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: #262626;
+}
+
+.navbar-default .navbar-brand{
+    color: #262626;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.navbar-nav>li:first-child>a{
+    border-top: 1px solid #262626;
+}
+
+.tall-sec{
+    background-color: #e7e7e7e7;
+    padding: 25px 15px;
+}
